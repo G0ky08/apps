@@ -1,0 +1,78 @@
+{
+	"name": "G0ky Repo",
+	"identifier": "com.G0ky.Esing",
+	"sourceURL": "https://g0ky08.github.io/apps/repo.json",
+	"apps": [{
+			"name": "Watusi",
+			"bundleIdentifier": "net.whatsapp.WhatsApp",
+			"developerName": "WhatsApp",
+			"subtitle": "The all-in-one tweak for WhatsApp Messenger!.",
+			"version": "2.21.11",
+			"versionDate": "2021-02-9T10:00:00+08:00",
+			"versionDescription": "Version 2.21.11 The all-in-one tweak for WhatsApp Messenger!.",
+			"downloadURL": "https://www.dropbox.com/s/4ir02o5qoszhiyn/net.whatsapp.WhatsApp_v2.21.11_watusi_1.3.18.ipa?dl=1",
+			"localizedDescription": "The all-in-one tweak for WhatsApp Messenger!",
+			"iconURL": "https://image.flaticon.com/icons/png/512/124/124034.png",
+			"tintColor": "FC2125",
+			"size": 105086278,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows WhatsApp to use images from your Photo Library as game artwork."
+			}]
+        },
+        {
+			"name": "iPogo",
+			"bundleIdentifier": "com.nianticlabs.pokemongo",
+			"developerName": "iPogo",
+			"subtitle": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App..",
+			"version": "1.9.6",
+			"versionDate": "2021-02-9T10:00:00+08:00",
+			"versionDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+			"downloadURL": "https://ipogo.app/download/ipogo-1.9.6.ipa",
+			"localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App",
+			"iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/87/f2/ed/87f2ed73-429f-6c11-7ec8-0d9a08ff48b2/source/512x512bb.jpg",
+			"tintColor": "FC2125",
+			"size": 112233463,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App."
+			}]
+        },
+        {
+			"name": "Unc0ver",
+			"bundleIdentifier": "science.xnu.undecimus",
+			"developerName": "Unc0ver",
+			"subtitle": "The most advanced jailbreak tool. iOS 11.0 - 13.5",
+			"version": "5.3.1",
+			"versionDate": "2020-07-23T10:00:00+08:00",
+			"versionDescription": "The most advanced jailbreak tool. iOS 11.0 - 13.5",
+			"downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
+			"localizedDescription": "The most advanced jailbreak tool. iOS 11.0 - 13.5",
+			"iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/uncover-unc0ver-Icon-app-200px.png",
+			"tintColor": "FC2125",
+			"size": 21099395,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "The most advanced jailbreak tool. iOS 11.0 - 13.5"
+			}]
+        },
+        {
+			"name": "Odyssey",
+			"bundleIdentifier": "org.coolstar.odyssey",
+			"developerName": "Odyssey",
+			"subtitle": "A new jailbreak for a new era.",
+			"version": "1.2.2",
+			"versionDate": "2020-11-24T10:00:00+08:00",
+			"versionDescription": "A new jailbreak for a new era.",
+			"downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+			"localizedDescription": "A new jailbreak for a new era.",
+			"iconURL": "https://pbs.twimg.com/profile_images/1280028154200043521/xiD-rBS-_400x400.jpg",
+			"tintColor": "FC2125",
+			"size": 43024790,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "A new jailbreak for a new era."
+			}]
+        },
+	]
+}
